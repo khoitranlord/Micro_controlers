@@ -1,0 +1,74 @@
+Configuration	lab2_ex3
+STM32CubeMX 	6.6.1
+Date	10/26/2022
+MCU	STM32F103C6Tx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+TIM1	Internal Clock	TIM1_VS_ClockSourceINT	VP_TIM1_VS_ClockSourceINT
+TIM2	Internal Clock	TIM2_VS_ClockSourceINT	VP_TIM2_VS_ClockSourceINT
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+14	PA4	GPIO_Output	DOT
+15	PA5	GPIO_Output	LED_RED
+16	PA6	GPIO_Output	EN0
+17	PA7	GPIO_Output	EN1
+18	PB0	GPIO_Output	seg_a
+19	PB1	GPIO_Output	seg_b
+20	PB2	GPIO_Output	seg_c
+29	PA8	GPIO_Output	EN2
+30	PA9	GPIO_Output	EN3
+39	PB3	GPIO_Output	seg_d
+40	PB4	GPIO_Output	seg_e
+41	PB5	GPIO_Output	seg_f
+42	PB6	GPIO_Output	seg_g
+PERIPHERALS	MODES	FUNCTIONS	PINS
+TIM1	Internal Clock	TIM1_VS_ClockSourceINT	VP_TIM1_VS_ClockSourceINT
+TIM2	Internal Clock	TIM2_VS_ClockSourceINT	VP_TIM2_VS_ClockSourceINT
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+14	PA4	GPIO_Output	DOT
+15	PA5	GPIO_Output	LED_RED
+16	PA6	GPIO_Output	EN0
+17	PA7	GPIO_Output	EN1
+18	PB0	GPIO_Output	seg_a
+19	PB1	GPIO_Output	seg_b
+20	PB2	GPIO_Output	seg_c
+29	PA8	GPIO_Output	EN2
+30	PA9	GPIO_Output	EN3
+39	PB3	GPIO_Output	seg_d
+40	PB4	GPIO_Output	seg_e
+41	PB5	GPIO_Output	seg_f
+42	PB6	GPIO_Output	seg_g
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : lab2_ex3
+Project Folder : C:\Users\AdminPC\STM32CubeIDE\workspace_1.10.1\lab2_ex3
+Toolchain / IDE : STM32CubeIDE
+Firmware Package Name and Version : STM32Cube FW_F1 V1.8.4
+
+
+Code Generation Settings : 
+STM32Cube MCU packages and embedded software packs : Copy only the necessary library files
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : 
+
+
+
+
+
