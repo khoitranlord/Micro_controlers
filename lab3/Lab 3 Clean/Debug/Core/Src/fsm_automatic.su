@@ -1,0 +1,2 @@
+fsm_automatic.c:11:5:checkForButtonClicked	8	static
+fsm_automatic.c:29:6:fsm_automatic_run	8	static

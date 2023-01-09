@@ -1,0 +1,6 @@
+fsm_run.c:25:6:display7SEG1	24	static
+fsm_run.c:31:6:display7SEG2	24	static
+fsm_run.c:47:6:update7Seg	16	static
+fsm_run.c:110:6:seg7Blinking	8	static
+fsm_run.c:121:6:fsm_run1	8	static
+fsm_run.c:216:6:fsm_run2	8	static

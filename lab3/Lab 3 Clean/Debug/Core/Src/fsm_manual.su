@@ -1,0 +1,2 @@
+fsm_manual.c:9:6:clearLed	8	static
+fsm_manual.c:18:6:fsm_manual_run	8	static
