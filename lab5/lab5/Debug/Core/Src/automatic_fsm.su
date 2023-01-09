@@ -1,0 +1,4 @@
+../Core/Src/automatic_fsm.c:26:5:RST_Cmd	24	static
+../Core/Src/automatic_fsm.c:35:5:OK_Cmd	24	static
+../Core/Src/automatic_fsm.c:44:6:cmd_parser_fsm	8	static
+../Core/Src/automatic_fsm.c:74:6:uart_communiation_fsm	112	static
